@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PracticaAzureDevopsUnir'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36F6997D85984A91AA5817CD8CE5E2C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_279429BD0D0447029957E11B2774D05E }}
           package: .
